@@ -1,5 +1,5 @@
 def hanoi(n, a, b, c): #n - число колец
-    if n != 0:
+    if n > 0:
         hanoi(n-1, a, c, b)
         print("Переместить кольцо с", a, "на", c)
         hanoi(n-1, b, a, c)
