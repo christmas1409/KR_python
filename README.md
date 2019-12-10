@@ -24,4 +24,4 @@ group.tsv
 group_result.tsv
 
 10 задач по Numpy
-HomeWork_10_zadachi.txt
+HomeWork_10_zadachi
