@@ -4,6 +4,7 @@
 19.10.2019.py  
 
 Конечный автомат:
+
 First_Avtomat.py 
 
 Second_Avtomat.py
