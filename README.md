@@ -4,7 +4,9 @@
 19.10.2019.py  
 
 Конечный автомат
-Avtomat.py 
+First_Avtomat.py 
+Second_Avtomat.py
+Third_Avtomat.py
 
 Числа Фибоначчи
 Fibonachchos.py 
@@ -24,4 +26,4 @@ group.tsv
 group_result.tsv
 
 10 задач по Numpy
-HomeWork_10_zadachi
+HomeWork_10_zadachi.py
