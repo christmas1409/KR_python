@@ -5,7 +5,9 @@
 
 Конечный автомат:
 First_Avtomat.py 
+
 Second_Avtomat.py
+
 Third_Avtomat.py
 
 Числа Фибоначчи:
@@ -22,6 +24,7 @@ Kursach.py
 
 Список группы для задания с рейтингами:
 group.tsv 
+
 Результат работы с рейтингами:
 group_result.tsv
 
