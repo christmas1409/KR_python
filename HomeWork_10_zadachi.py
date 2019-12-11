@@ -60,10 +60,10 @@ Z = np.ones((10,10))
 Z[1:-1,1:-1] = 0
 
 #Выяснить результат следующих выражений
-#(0 * np.nan
- np.nan == np.nan
- np.inf > np.nan
- np.nan — np.nan)
+# (0 * np.nan
+# np.nan == np.nan
+# np.inf > np.nan
+# np.nan — np.nan)
 
 0 * np.nan
 np.nan == np.nan
