@@ -5,11 +5,11 @@
 
 Конечный автомат:
 
-First_Avtomat.py 
+First_Avtomat.py #первый вариант
 
-Second_Avtomat.py
+Second_Avtomat.py #второй вариант
 
-Third_Avtomat.py
+Third_Avtomat.py #третий вариант
 
 Числа Фибоначчи:
 Fibonachchos.py 
