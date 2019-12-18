@@ -31,3 +31,5 @@ group_result.tsv
 
 10 задач по Numpy:
 HomeWork_10_zadachi.py
+
+В папке СМО задание с палаткой
