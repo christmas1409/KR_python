@@ -12,7 +12,7 @@ for i in a:
 for i in b:
     B.append(float(i))
 
-C = [round((A[0] - B[0]), 2), round((A[1] + B[2]), 2), round((A[2] + B[1]), 2)]
+C = [round((A[0] - B[0]), 2), round((A[1] - B[2]), 2), round((A[2] - B[1]), 2)]
 print("Первое нечёткое число:", A)
 print("Второе нечёткое число:", B)
 print("Разность нечётких чисел:", A, "-", B)
