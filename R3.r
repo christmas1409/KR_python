@@ -1,5 +1,5 @@
 smooth <- function(x) {
-  m <- mean(x)
+  m <- mean(x) #mean -> среднее арифметическое значение х
   return (ifelse(x > m * 3, m, x))
 }
 
