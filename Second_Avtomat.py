@@ -30,7 +30,7 @@ else:
 
 
         y.append(list(z))
-        z.zlear()
+        z.clear()
     
 
     for i in range(count + 1):
